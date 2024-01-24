@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Testando_API.Testes_Funcionais_Checklist
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.889 s - in Testando_API.Testes_Funcionais_Checklist

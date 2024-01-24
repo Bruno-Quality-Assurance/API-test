@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Testes_Funcionais_Checklist.Testes_Funcionais_Checklist
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.198 s - in Testes_Funcionais_Checklist.Testes_Funcionais_Checklist
